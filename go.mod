@@ -1,1 +1,1 @@
-module github.com/nmarley/testmod
+module github.com/nmarley/testmod/v2
